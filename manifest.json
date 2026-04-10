@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "የመጽሐፍ ቅዱስ ጥያቄ Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BibleQuiz",
+  "start_url": "/kaleab.com",
+  "theme_color": "#ffffff",
+  "description": "An educational quiz app for Oriental Orthodox teachings.",
+  "categories": [
+    "books",
+    "education",
+    "games",
+    "personalization"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 0
+  },
+  "id": "የመጽሐፍ ቅዱስ ጥያቄ Pro",
+  "lang": "am",
+  "prefer_related_applications": true,
+  "share_target": {
+    "method": "GET",
+    "action": "kaleab.com",
+    "params": {
+      "title": "kaleab",
+      "url": "kaleab.com"
+    }
+  }
+}
